@@ -1,3 +1,5 @@
 hello, i created this file to test my git and github skills!
 This is an update line
 another update for ya
+
+In this one, I will testing out the importance of good git commit messages.
